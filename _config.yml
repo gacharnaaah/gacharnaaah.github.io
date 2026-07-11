@@ -13,7 +13,7 @@ collections:
   skills:
     output: false
   projects:
-    output: true
+    output: false
     permalink: /projects/:slug
 
 defaults:
