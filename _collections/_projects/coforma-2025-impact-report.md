@@ -1,6 +1,6 @@
 ---
 title: Coforma-2025-Impact-Report
-description: A free Discord music bot
+description: Building an Annual Impact Reporting Practice
 date_start: 2025-09-05
 date_end: 2026-02-11
 source: https://www.youtube.com/watch?v=sKHjJQXmZPA
