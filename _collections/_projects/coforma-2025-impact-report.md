@@ -10,7 +10,7 @@ tags: storytelling video marketing strategy
 For Coforma's 2025 Impact Report, I produced a major video component that included perspectives from approximately half a dozen members of leadership, along with input from additional staff and subject matter experts across the company.
 
 <img src="/assets/img/coforma-2025-impact-report-cover.png">
-<figcaption>A demonstration of Apreggio's functionality: joining, playback, and track queueing</figcaption>
+<figcaption>Multi-channel approach to demonstrating Coforma's impact, centering a major video component</figcaption>
 
 The strategy began with a central question: how do we show Coforma’s impact in a way that feels specific, credible, and human?
 
@@ -28,7 +28,7 @@ The process needed to become repeatable so future annual reports could be easier
 From there, I helped define the content structure, identify the kinds of metrics and stories we needed, support stakeholder outreach, and shape the publishing and distribution plan.
 
 <img src="/assets/img/coforma-2025-impact-report-process.png">
-<figcaption>A demonstration of Apreggio's functionality: joining, playback, and track queueing</figcaption>
+<figcaption>Cross-disciplinary work and collaboration over the course of several months</figcaption>
 
 The production process required both strategic coordination and hands-on execution.
 
@@ -39,6 +39,9 @@ For the 2025 video, I led a larger multimedia production effort. I wrote the scr
 The video required synthesizing many perspectives into a cohesive story. I worked with input from leadership and subject matter experts across the company, then shaped that raw material into a narrative that could function internally as a shared reflection point and externally as a more polished expression of Coforma’s impact.
 
 I was also responsible for implementation and publishing. That included building the web pages, loading content, preparing the report for publication, coordinating channel distribution, and publishing social posts.
+
+<img src="/assets/img/coforma-2025-impact-report-distribution.png">
+<figcaption>Stronger multimedia storytelling, richer stakeholder input, and more intentional distribution</figcaption>
 
 The project resulted in a multi-format impact reporting package, including:
 Public-facing web impact report: https://coforma.io/2025-impact-report
