@@ -1,9 +1,10 @@
 ---
-title: Coforma-2025-Impact-Report
+title: Coforma 2025 Impact Report
 description: Building an Annual Impact Reporting Practice
 date_start: 2025-09-05
 date_end: 2026-02-11
 source: https://www.youtube.com/watch?v=sKHjJQXmZPA
+report: https://coforma.io/2025-impact-report
 featured: true
 tags: storytelling video marketing strategy
 ---
