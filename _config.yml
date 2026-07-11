@@ -1,5 +1,5 @@
-url: "https://felixleitner.com"
-title: "Felix Leitner"
+url: "https://gacharnaaah.github.io"
+title: "Felipe Gacharn&aacute; - Portfolio"
 
 plugins:
   - jekyll-postcss-v2
@@ -16,7 +16,7 @@ collections:
     output: true
     permalink: /projects/:slug
   haiku:
-    output: true
+    output: false
     permalink: /haiku/:slug
 
 defaults:

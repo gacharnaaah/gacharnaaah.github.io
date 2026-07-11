@@ -3,6 +3,8 @@
 
 @import "https://fonts.googleapis.com/css2?family=Inter:wght@400;600&family=Noto+Serif:wght@700&display=swap";
 
+@import "https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible+Next:ital,wght@0,200..800;1,200..800&display=swap";
+
 @import "tailwindcss";
 @plugin "@tailwindcss/typography";
 
@@ -30,7 +32,7 @@ main li {
 
 body {
     @apply font-sans text-base text-gray-900 bg-white;
-    font-family: "Inter", "Helvetica", sans-serif;
+    font-family: "Atkinson Hyperlegible Next", "Helvetica", sans-serif;
 }
 
 h1 {
