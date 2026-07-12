@@ -4,28 +4,26 @@ layout: default
 ---
 <section>
   <h1 class="mb-2">Projects</h1>
-  {% assign projects = site.projects
-    | where_exp: 'project', 'project.unlisted != true'
-    | sort: 'date_end', 'first'
-    | reverse
-  %}
   <div class="flex flex-col gap-4">
-
-
     <a
-      href="/coforma-2025-impact-report.html/"
+      href="/coforma-2025-impact-report.html"
       class="border border-gray-200 px-6 py-4 rounded-lg cursor-pointer no-underline hover:border-gray-300"
     >
       <h2>
         Coforma 2025 Impact Report - Building and Annual Impact Reporting Practice
       </h2>
-      <div class="flex gap-2 flex-wrap mt-2">
-        {% for tag in project.tags %}
-          {% include tag.html name=tag %}
-        {% endfor %}
-      </div>
     </a>
-    
+  </div>
+
+  <div class="flex flex-col gap-4">
+    <a
+      href="/honor-the-air-land-water.html"
+      class="border border-gray-200 px-6 py-4 rounded-lg cursor-pointer no-underline hover:border-gray-300"
+    >
+      <h2>
+        Honor the Air, Land, and Water - Turning a Public Art Installation Into a Multimedia Storytelling Campaign
+      </h2>
+    </a>
   </div>
 </section>
 
