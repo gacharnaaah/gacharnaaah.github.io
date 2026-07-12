@@ -58,7 +58,7 @@ Supporting copy and channel-specific promotional content
 Reporting on performance and audience engagement
 Together, these deliverables created a more complete storytelling ecosystem: a report people could read, a video they could watch, social content they could encounter in-channel, and internal materials that helped employees see their work reflected back to them.
 
-Results & Impact
+<h2>Results & Impact</h2>
 The impact reporting practice helped Coforma establish a clearer annual rhythm for communicating its work and value externally.
 The 2024 report created the initial structure and proved the value of having a dedicated annual impact asset. The 2025 report built on that foundation with stronger multimedia storytelling, richer stakeholder input, and more intentional distribution.
 Results included:
@@ -71,7 +71,7 @@ An external video that has been reused across multiple contexts
 Improved understanding of how to streamline future fact-finding, research, and production workflows
 The project also strengthened cross-functional collaboration across MarComms, design, leadership, delivery teams, and subject matter experts by creating a shared process for identifying, validating, and presenting impact stories.
 
-Reflection
+<h2>Reflection</h2>
 This project was a major lift, but it is also one of the clearest examples of the kind of work I want to keep doing: finding the meaningful stories inside complex organizations and building the strategy, production process, and publishing infrastructure needed to tell them well.
 I’m proud that I helped establish an annual impact reporting practice from the ground up, then helped evolve it into a richer multimedia experience. The work pushed me to think not only about the final artifact, but about the system behind it: how to gather better stories, how to make research and fact-finding more efficient, how to involve subject matter experts without overwhelming them, and how to produce content that can serve audiences across multiple channels.
 The most rewarding part was seeing the work become more than a report. It became a way for the organization to understand and share its own impact—with partners, peers, prospective employees, and staff. And my dog even made it into the final cut.

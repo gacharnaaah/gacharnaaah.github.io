@@ -11,73 +11,103 @@ tags: storytelling video marketing strategy
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/joFJR2OxjpE?si=YNpi_C3acdXN0-D8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-For Coforma's 2025 Impact Report, I produced a major video component that included perspectives from approximately half a dozen members of leadership, along with input from additional staff and subject matter experts across the company.
+During UW–Madison’s 175th anniversary, the university commissioned a new Bucky on Parade statue: “Honor the Air, Land, and Water,” created by Art Professor John Hitchcock with assistance from student artist Kaylee Herrmann.
+
+What began as a possible single-photo documentation opportunity became a much larger multimedia storytelling campaign. Through relationship-building across campus communications networks, I learned about the blank statue before the public reveal and secured the opportunity for my team to document the creative process from early development through completion.
+
+The project became a story about much more than a mascot statue. Through repeated interviews and visits to the artist’s studio, we explored the themes behind the work: place, time, memory, movement, community, Indigenous presence, artistic practice, and UW–Madison’s past, present, and future.
 
 <img src="/assets/img/honor-air-land-water-cover.png">
-<figcaption>Multi-channel approach to demonstrating Coforma's impact, centering a major video component</figcaption>
+<figcaption>The finished Bucky sculpture</figcaption>
 
-The strategy began with a central question: how do we show Coforma’s impact in a way that feels specific, credible, and human?
+<h2>My Role</h2>
+I led the campaign strategy, editorial direction, production planning, team coordination, and distribution strategy.
 
-To answer that, I helped evaluate peer and competitor impact reports, looking at how organizations in civic technology, digital services, philanthropy, and mission-driven consulting presented their work. I reviewed examples for structure, format, narrative approach, visual treatment, metrics, distribution, and opportunities to differentiate.
+My responsibilities included:
+<ul>
+    <li>Identifying and securing the storytelling opportunity through campus relationship-building</li>
+    <li>Pitching the project as a larger multimedia campaign rather than a simple finished-product photo</li>
+    <li>Leading my team through multiple studio visits and interviews</li>
+    <li>Interviewing John Hitchcock and Kaylee Herrmann throughout the creative process</li>
+    <li>Pulling the narrative through-line from several conversations and production moments</li>
+    <li>Guiding culturally responsive storytelling choices</li>
+    <li>Coordinating photography, video, social media, and written content</li>
+    <li>Sourcing additional creative materials, including music from John Hitchcock</li>
+    <li>Pitching the story to campus and local media partners</li>
+    <li>Supporting distribution across School of Education, central campus, and local media channels</li>
+    <li>Managing timelines, stakeholder expectations, and review processes</li>
+</ul>
 
-That research shaped several strategic decisions:
-The report needed to be story-forward, not just metrics-heavy.
-
-The experience needed to work across multiple formats: website, accessible PDF, social, email, and video.
-The storytelling needed to foreground people impacted by the work, not just internal accomplishments.
-The report needed to support multiple audiences, including current partners, prospective partners, prospective employees, and industry peers.
-
-The process needed to become repeatable so future annual reports could be easier to produce and richer in substance.
-
-From there, I helped define the content structure, identify the kinds of metrics and stories we needed, support stakeholder outreach, and shape the publishing and distribution plan.
 
 <img src="/assets/img/honor-air-land-water-1.png">
-<figcaption>Cross-disciplinary work and collaboration over the course of several months</figcaption>
+<figcaption>Prepping the statue</figcaption>
 
-The production process required both strategic coordination and hands-on execution.
+<h2>Planning & Content Strategy</h2>
+The strategic opportunity was clear: rather than simply announcing a new public art installation, we could document how the work came to life and help audiences understand the people, history, and meaning behind it.
 
-For the written and web report, I worked with a writer, a designer, leadership, and delivery stakeholders to gather information, clarify priorities, identify stories, and translate complex project work into content that would be clear and useful for external audiences.
+I approached the project as a layered story with several audiences:
+<ul>
+    <li>UW–Madison alumni and anniversary audiences</li>
+    <li>School of Education and Art Department audiences</li>
+    <li>Campus communicators and leadership</li>
+    <li>Local Madison community members</li>
+    <li>Viewers interested in public art, Indigenous perspectives, and place-based storytelling</li>
+</ul>
 
-For the 2025 video, I led a larger multimedia production effort. I wrote the script, identified interview subjects, coordinated and recorded interviews with leadership virtually, filmed b-roll in person, sourced supporting assets, and gathered relevant external materials, including content connected to Coforma’s Anthem Award-winning accessibility campaign.
+The content strategy centered on making the process visible. We wanted audiences to see the blank statue, the studio, the painting, the interviews, the symbols, the music, and the relationships behind the finished work.
 
-The video required synthesizing many perspectives into a cohesive story. I worked with input from leadership and subject matter experts across the company, then shaped that raw material into a narrative that could function internally as a shared reflection point and externally as a more polished expression of Coforma’s impact.
+I also recognized that this story required care. The design carried cultural, historical, and place-based meaning, so the editorial process needed to be thoughtful, collaborative, and responsive. I worked closely with John Hitchcock to better understand the meaning behind the work and to ensure the final storytelling honored the cultural context rather than simplifying it.
 
-I was also responsible for implementation and publishing. That included building the web pages, loading content, preparing the report for publication, coordinating channel distribution, and publishing social posts.
 
 <img src="/assets/img/honor-air-land-water-2.png">
-<figcaption>Stronger multimedia storytelling, richer stakeholder input, and more intentional distribution</figcaption>
+<figcaption>Testing out different patterns</figcaption>
 
-The project resulted in a multi-format impact reporting package, including:
-Public-facing web impact report: https://coforma.io/2025-impact-report
-Downloadable accessible PDF
-Social media campaign
-Email/newsletter distribution
-Internal video featured for the company during our end of the year All Hands meeting
-External video used across multiple contexts: https://www.youtube.com/watch?v=sKHjJQXmZPA
-Supporting copy and channel-specific promotional content
-Reporting on performance and audience engagement
-Together, these deliverables created a more complete storytelling ecosystem: a report people could read, a video they could watch, social content they could encounter in-channel, and internal materials that helped employees see their work reflected back to them.
+<h2>Production Process</h2>
+This project required sustained access, trust, and careful coordination.
 
-Results & Impact
-The impact reporting practice helped Coforma establish a clearer annual rhythm for communicating its work and value externally.
-The 2024 report created the initial structure and proved the value of having a dedicated annual impact asset. The 2025 report built on that foundation with stronger multimedia storytelling, richer stakeholder input, and more intentional distribution.
-Results included:
-Creation of Coforma’s annual impact reporting practice
-Two completed annual reports across multiple formats
-A stronger repeatable workflow for gathering stories, metrics, and stakeholder input
-External social posts that performed better than average
-An internal video that was well received by staff and leadership
-An external video that has been reused across multiple contexts
-Improved understanding of how to streamline future fact-finding, research, and production workflows
-The project also strengthened cross-functional collaboration across MarComms, design, leadership, delivery teams, and subject matter experts by creating a shared process for identifying, validating, and presenting impact stories.
+Over multiple visits, I brought my team to the studio to interview John Hitchcock and Kaylee Herrmann, document the statue’s progress, and capture the atmosphere of the creative process. We filmed interviews, gathered b-roll, photographed the work in development, and observed the artists as the statue moved from blank form to completed public artwork.
+
+As the story developed, I shaped the narrative around the themes that emerged from our conversations: time, place, movement, memory, and the people who pass through the university and leave a mark.
+
+I also looked for ways to deepen the emotional and cultural texture of the piece. During one visit, I captured footage of John playing guitar, which later helped set the tone for video cutdowns. Knowing he was also a musician, I researched his music and asked whether we could incorporate some of his songs into the final video. He generously shared access, allowing us to connect the visual story of the statue with his broader creative practice.
+
+The project required both hands-on production and leadership. I worked closely with less experienced direct reports, helping them navigate interviews, production logistics, stakeholder communication, and creative decision-making. I also collaborated with partners across campus, many of whom I needed to influence without direct authority.
 
 <img src="/assets/img/honor-air-land-water-3.png">
-<figcaption>Stronger multimedia storytelling, richer stakeholder input, and more intentional distribution</figcaption>
+<figcaption>Setting the base coat</figcaption>
 
-Reflection
-This project was a major lift, but it is also one of the clearest examples of the kind of work I want to keep doing: finding the meaningful stories inside complex organizations and building the strategy, production process, and publishing infrastructure needed to tell them well.
-I’m proud that I helped establish an annual impact reporting practice from the ground up, then helped evolve it into a richer multimedia experience. The work pushed me to think not only about the final artifact, but about the system behind it: how to gather better stories, how to make research and fact-finding more efficient, how to involve subject matter experts without overwhelming them, and how to produce content that can serve audiences across multiple channels.
-The most rewarding part was seeing the work become more than a report. It became a way for the organization to understand and share its own impact—with partners, peers, prospective employees, and staff. And my dog even made it into the final cut.
+The campaign became a multi-format storytelling package, including:
+<ul>
+    <li>A mini documentary about the making of the statue: https://www.youtube.com/watch?v=joFJR2OxjpE</li>
+    <li>Shorter video cutdowns for digital and social use (including the School’s very first YouTube Short: https://www.youtube.com/shorts/ZU9CWYnjwxM)</li>
+    <li>Photography documenting the creative process</li>
+    <li>A feature story for the School of Education</li>
+    <li>Social media content across School and campus channels</li>
+    <li>Earned media outreach and local news pickup</li>
+    <li>Collaboration with central UW–Madison communications accounts</li>
+    <li>Support for the in-person reveal and celebration</li>
+</ul>
+The finished work extended beyond one owned channel. It appeared through School of Education communications, central campus amplification, local news coverage, social media, and the public anniversary celebration.
 
 <img src="/assets/img/honor-air-land-water-4.png">
-<figcaption>Stronger multimedia storytelling, richer stakeholder input, and more intentional distribution</figcaption>
+<figcaption>Painting the sculpture</figcaption>
+
+<h2>Results & Impact</h2>
+The project expanded from a simple documentation opportunity into a visible multimedia campaign connected to UW–Madison’s 175th anniversary.
+
+Results included:
+<ul>
+    <li>Creation of a mini documentary and supporting multimedia campaign</li>
+    <li>Cross-campus collaboration with central university communications</li>
+    <li>Local news coverage of the statue and its story</li>
+    <li>Broader visibility for the School of Education, the Art Department, John Hitchcock, Kaylee Herrmann, and the anniversary celebration</li>
+    <li>A more meaningful public understanding of the cultural and artistic significance behind the statue</li>
+    <li>Stronger relationships with campus communications partners, creating future opportunities for collaboration</li>
+</ul>
+The campaign demonstrated how proactive storytelling can elevate an institutional moment from a simple announcement into a richer story about people, place, and meaning.
+
+<hr />
+
+<h2>Reflection</h2>
+I’m proud of this project because it required more than technical production. It required curiosity, trust-building, editorial judgment, cultural care, and leadership.
+The most important decision I made was pushing the project beyond its original scope. What could have been a single image of a finished statue became a sustained story about artistic process, community, and the meaning of place. That shift only happened because of relationship-building, repeated conversations, and a willingness to follow the story as it emerged.
