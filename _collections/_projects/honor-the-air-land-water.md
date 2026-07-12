@@ -1,16 +1,19 @@
 ---
-title: Coforma 2025 Impact Report
-description: Building an Annual Impact Reporting Practice
-date_start: 2025-09-05
-date_end: 2026-02-11
-source: https://www.youtube.com/watch?v=sKHjJQXmZPA
-report: https://coforma.io/2025-impact-report
+title: Honor the Air, Land, and Water
+description: Turning a Public Art Installation Into a Multimedia Storytelling Campaign
+date_start: 2023-05-01
+date_end: 2023-09-11
+source: https://www.youtube.com/watch?v=joFJR2OxjpE
+report: https://education.wisc.edu/news/a-new-bucky-celebrates-175-years-honors-uw-madisons-past-present-and-future/
 featured: true
 tags: storytelling video marketing strategy
 ---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/joFJR2OxjpE?si=YNpi_C3acdXN0-D8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 For Coforma's 2025 Impact Report, I produced a major video component that included perspectives from approximately half a dozen members of leadership, along with input from additional staff and subject matter experts across the company.
 
-<img src="/assets/img/coforma-2025-impact-report-cover.png">
+<img src="/assets/img/honor-air-land-water-cover.png">
 <figcaption>Multi-channel approach to demonstrating Coforma's impact, centering a major video component</figcaption>
 
 The strategy began with a central question: how do we show Coforma’s impact in a way that feels specific, credible, and human?
@@ -28,7 +31,7 @@ The process needed to become repeatable so future annual reports could be easier
 
 From there, I helped define the content structure, identify the kinds of metrics and stories we needed, support stakeholder outreach, and shape the publishing and distribution plan.
 
-<img src="/assets/img/coforma-2025-impact-report-process.png">
+<img src="/assets/img/honor-air-land-water-1.png">
 <figcaption>Cross-disciplinary work and collaboration over the course of several months</figcaption>
 
 The production process required both strategic coordination and hands-on execution.
@@ -41,7 +44,7 @@ The video required synthesizing many perspectives into a cohesive story. I worke
 
 I was also responsible for implementation and publishing. That included building the web pages, loading content, preparing the report for publication, coordinating channel distribution, and publishing social posts.
 
-<img src="/assets/img/coforma-2025-impact-report-distribution.png">
+<img src="/assets/img/honor-air-land-water-2.png">
 <figcaption>Stronger multimedia storytelling, richer stakeholder input, and more intentional distribution</figcaption>
 
 The project resulted in a multi-format impact reporting package, including:
@@ -68,7 +71,13 @@ An external video that has been reused across multiple contexts
 Improved understanding of how to streamline future fact-finding, research, and production workflows
 The project also strengthened cross-functional collaboration across MarComms, design, leadership, delivery teams, and subject matter experts by creating a shared process for identifying, validating, and presenting impact stories.
 
+<img src="/assets/img/honor-air-land-water-3.png">
+<figcaption>Stronger multimedia storytelling, richer stakeholder input, and more intentional distribution</figcaption>
+
 Reflection
 This project was a major lift, but it is also one of the clearest examples of the kind of work I want to keep doing: finding the meaningful stories inside complex organizations and building the strategy, production process, and publishing infrastructure needed to tell them well.
 I’m proud that I helped establish an annual impact reporting practice from the ground up, then helped evolve it into a richer multimedia experience. The work pushed me to think not only about the final artifact, but about the system behind it: how to gather better stories, how to make research and fact-finding more efficient, how to involve subject matter experts without overwhelming them, and how to produce content that can serve audiences across multiple channels.
 The most rewarding part was seeing the work become more than a report. It became a way for the organization to understand and share its own impact—with partners, peers, prospective employees, and staff. And my dog even made it into the final cut.
+
+<img src="/assets/img/honor-air-land-water-4.png">
+<figcaption>Stronger multimedia storytelling, richer stakeholder input, and more intentional distribution</figcaption>
