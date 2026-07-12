@@ -10,8 +10,27 @@ layout: default
     | reverse
   %}
   <div class="flex flex-col gap-4">
+
+
+    <a
+      href="/coforma-2025-impact-report.html/"
+      class="border border-gray-200 px-6 py-4 rounded-lg cursor-pointer no-underline hover:border-gray-300"
+    >
+      <h2>
+        Coforma 2025 Impact Report - Building and Annual Impact Reporting Practice
+      </h2>
+      <div class="flex gap-2 flex-wrap mt-2">
+        {% for tag in project.tags %}
+          {% include tag.html name=tag %}
+        {% endfor %}
+      </div>
+    </a>
+    
+  </div>
+</section>
+
+<!--
     {% for project in projects %}
       {% include project_card.html project=project %}
     {% endfor %}
-  </div>
-</section>
+-->
