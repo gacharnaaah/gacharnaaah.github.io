@@ -7,6 +7,7 @@ source: https://www.youtube.com/watch?v=joFJR2OxjpE
 report: https://education.wisc.edu/news/a-new-bucky-celebrates-175-years-honors-uw-madisons-past-present-and-future/
 featured: true
 tags: storytelling video marketing strategy
+permalink: /projects/honor-the-air-land-water/
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/joFJR2OxjpE?si=YNpi_C3acdXN0-D8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

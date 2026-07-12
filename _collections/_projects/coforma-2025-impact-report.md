@@ -7,6 +7,7 @@ source: https://www.youtube.com/watch?v=sKHjJQXmZPA
 report: https://coforma.io/2025-impact-report
 featured: true
 tags: storytelling video marketing strategy
+permalink: /projects/project/coforma-2025-impact-report/
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sKHjJQXmZPA?si=XEPfIHAy0mbJOP1a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
