@@ -1,0 +1,92 @@
+---
+title: Ragan HR Communicator Award Video
+description: Finding the Story Inside Existing Material
+date_start: 2026-01-01
+date_end: 2026-05-01
+source: https://www.linkedin.com/posts/elliesaeta_i-am-so-honored-that-my-friends-at-coforma-activity-7435413263921594368-VChZ/
+report: https://www.ragan.com/awards/events/top-women-in-hr-awards-luncheon-2026/
+featured: false
+tags: video editing archival storytelling awards leadership communications
+---
+<h1 class="mt-2 mb-2">Finding the Story Inside Existing Material</h1>
+
+<p class="mt-2 mb-4">
+As part of Coforma’s marketing and communications work, we regularly look for opportunities to elevate the people and projects that represent the company’s values. Sometimes that takes the form of a case study, a social campaign, a press release, or an award submission.
+</p>
+
+<p class="mt-2 mb-4">
+In this case, I identified an opportunity through Ragan Communications’ Top Women in HR Awards. The category was a strong fit for Ellie Saeta, Coforma’s VP of PeopleOps, whose leadership had helped employees and managers navigate a difficult year with clarity, care, and consistency.
+</p>
+
+<p class="mt-2 mb-4">
+The project was smaller in scope than a full campaign, but it had meaningful impact. It became an example of how thoughtful storytelling can elevate someone’s work, strengthen brand awareness in a new space, and create recognition without requiring a large lift from the person being featured.
+</p>
+
+<img class="mt-2 mb-4" src="/assets/img/ragan-hr-communicator-video.jpg">
+<figcaption>Editing a two-minute highlight video from internal recordings</figcaption>
+
+<h2 class="mt-2 mb-2">Core Problem</h2>
+<p class="mt-2 mb-4">
+The challenge was to show Ellie’s leadership without creating extra work for her. Rather than scheduling new interviews or asking her to retell stories, I needed to find the strongest material from recordings that already existed and shape it into a compelling external story.
+</p>
+
+<h2 class="mt-2 mb-2">Strategic Approach</h2>
+<p class="mt-2 mb-4">
+The strategic question was simple: how do we show Ellie’s leadership in action, not just describe it?
+</p>
+
+<p class="mt-2 mb-4">
+I reviewed recordings from internal company trainings, All Hands meetings, and events where Ellie had spoken. I looked for clips that revealed her communication style: direct, practical, human, and supportive.
+</p>
+
+<p class="mt-2 mb-4">
+Several themes emerged:
+</p>
+<ul>
+    <li>“Be the leader you wish you had.”</li>
+    <li>“Clear is kind.”</li>
+    <li>Strong managers need shared principles and consistent expectations.</li>
+    <li>PeopleOps is not only about policy, but about support, trust, and care.</li>
+    <li>Employees need clarity during moments of uncertainty.</li>
+</ul>
+
+<h2 class="mt-2 mb-2">Solution / Execution</h2>
+<p class="mt-2 mb-4">
+This project relied on editorial judgment more than production scale. I reviewed a significant amount of existing internal footage, selected the strongest clips, and shaped them into a concise two-minute video.
+</p>
+
+<p class="mt-2 mb-4">
+Because the material came from different settings, the production challenge was to create a coherent emotional and narrative arc from footage that had not originally been recorded for this purpose. I selected clips that showed Ellie explaining leadership principles, supporting managers, and humanizing the role of PeopleOps.
+</p>
+
+<p class="mt-2 mb-4">
+Before submission, I shared the final video with Ellie. Her response was emotional and affirming; she said it made her cry in a good way. That reaction confirmed that the piece had captured something authentic about her leadership.
+</p>
+
+<h2 class="mt-2 mb-2">Deliverables</h2>
+<ul>
+    <li>Written award nomination support</li>
+    <li>Two-minute supporting video: <a href="https://www.linkedin.com/posts/elliesaeta_i-am-so-honored-that-my-friends-at-coforma-activity-7435413263921594368-VChZ/" target="_blank">LinkedIn post and video</a></li>
+    <li>Curated clips from internal trainings, All Hands meetings, and company events</li>
+    <li>Narrative framing around Ellie’s leadership, communication, and employee support</li>
+    <li>Supporting materials for external award submission</li>
+</ul>
+
+<h2 class="mt-2 mb-2">Results & Impact</h2>
+<p class="mt-2 mb-4">
+Ellie Saeta was named one of Ragan’s HR Communicators of the Year. The project helped elevate a company leader, create external recognition for Coforma in an HR and workplace communications space, and demonstrate the value of multimedia in award submissions.
+</p>
+
+<ul>
+    <li>Turned existing internal material into a compelling external story</li>
+    <li>Highlighted the human side of leadership, management, and organizational care</li>
+    <li>Created a strong supporting asset without requiring new interviews or additional production time</li>
+    <li>Helped bring Coforma’s values to a broader audience</li>
+</ul>
+
+<hr />
+
+<h2 class="mt-2 mb-2">Why This Project Matters</h2>
+<p class="mt-2 mb-4">
+This project shows that meaningful storytelling does not always require a large production. Sometimes the strongest story is already inside the archive; the work is recognizing it, shaping it, and giving it the right context.
+</p>

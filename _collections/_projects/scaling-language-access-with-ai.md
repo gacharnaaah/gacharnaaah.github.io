@@ -1,0 +1,96 @@
+---
+title: Scaling Language Access With AI
+description: Arizona pilots prototype translation tool with capacity for 8,000+ human services staff
+date_start: 2025-04-28
+date_end: 2025-07-31
+source: https://www.usdigitalresponse.org/resources/scaling-language-access-with-ai-arizona-pilots-prototype-translation-tool-with-capacity-for-8-000-human-services-staff
+report: https://www.usdigitalresponse.org/resources/scaling-language-access-with-ai-arizona-pilots-prototype-translation-tool-with-capacity-for-8-000-human-services-staff
+featured: true
+tags: public-benefits language-access ai plain-language spanish ux-research
+---
+<h1 class="mt-2 mb-2">Scaling Language Access With AI</h1>
+
+<p class="mt-2 mb-4">
+Arizona’s Department of Economic Security partnered with U.S. Digital Response to prototype a human-led, AI-assisted translation workflow for public benefits content, beginning with SNAP / Nutrition Assistance. I served on the content team as a Spanish bilingual content strategist, helping refine plain language definitions, support Spanish translation review, assist with user research, troubleshoot AI outputs, and create usage guidance.
+</p>
+
+<p class="mt-2 mb-4">
+The project helped DES explore how AI could expand language access while maintaining human oversight, quality, and trust.
+</p>
+
+<img class="mt-2 mb-4" src="/assets/img/arizona-language-access-ai.jpg">
+<figcaption>Human-led, AI-assisted language access workflow for public benefits content</figcaption>
+
+<h2 class="mt-2 mb-2">Core Problem</h2>
+<p class="mt-2 mb-4">
+DES serves a large, linguistically diverse population and needed a more scalable way to provide consistent translations across 60+ programs and 15 threshold languages. Existing workflows were costly, slow, decentralized, and difficult to maintain when policies or programs changed.
+</p>
+
+<p class="mt-2 mb-4">
+The Nutrition Assistance program was selected as an ideal pilot area because DES had existing terminology guides, sample materials, and new documents that needed translation support.
+</p>
+
+<h2 class="mt-2 mb-2">Strategic Approach</h2>
+<p class="mt-2 mb-4">
+The engagement focused on SNAP as the pilot and combined product management, engineering, content strategy, user research, and design. The core strategy was not to create a black-box AI tool, but to build internal capacity through a SNAP-specific lexicon, configurable prompt library, quality evaluation framework, staff workshops, and human-led workflows.
+</p>
+
+<p class="mt-2 mb-4">
+The work centered on two connected tracks:
+</p>
+<ul>
+    <li><strong>Plain language content development:</strong> Create and validate English and Spanish benefits terminology and sample translations.</li>
+    <li><strong>AI implementation support:</strong> Test an AI-assisted translation workflow using prompts, rubrics, checklists, and human review.</li>
+</ul>
+
+<h2 class="mt-2 mb-2">Solution / Execution</h2>
+<p class="mt-2 mb-4">
+As part of the content team, I supported the plain language and Spanish content work. My contributions included reviewing and refining plain language definitions, supporting Spanish translations and UX research, creating usage guidelines and examples, reviewing AI-generated outputs for clarity and quality, and helping connect content insights to the broader product and research effort.
+</p>
+
+<p class="mt-2 mb-4">
+I contributed as a content strategist, not as the AI product lead. My role was to help make the work usable, clear, culturally responsive, and grounded in real benefits communication needs.
+</p>
+
+<h2 class="mt-2 mb-2">Deliverables</h2>
+<ul>
+    <li>SNAP-specific benefits lexicon support</li>
+    <li>Plain language definitions</li>
+    <li>Spanish translation review</li>
+    <li>Usage guidelines and examples</li>
+    <li>User research support with English- and Spanish-speaking residents</li>
+    <li>AI output review and troubleshooting</li>
+    <li>Input into translation quality criteria</li>
+    <li>Staff-facing content guidance</li>
+    <li>Support for human-led, AI-assisted workflow development</li>
+</ul>
+
+<h2 class="mt-2 mb-2">Results & Impact</h2>
+<p class="mt-2 mb-4">
+The prototype demonstrated significant potential for reducing the burden of translation while improving consistency and internal capacity.
+</p>
+
+<ul>
+    <li>Designed for an agency with 8,000+ human services staff</li>
+    <li>Supported a model that could eventually scale across 60+ programs</li>
+    <li>Focused on language access for a state serving 15 threshold languages</li>
+    <li>Pilot testing indicated translation time reductions of more than 50%</li>
+    <li>Maintained plain language translation quality above 90% accuracy</li>
+    <li>Projected 80%+ reduction in translation costs</li>
+    <li>Established a reusable model for benefits agencies exploring AI-assisted language access</li>
+</ul>
+
+<p class="mt-2 mb-4">
+Read the published U.S. Digital Response case study: <a href="https://www.usdigitalresponse.org/resources/scaling-language-access-with-ai-arizona-pilots-prototype-translation-tool-with-capacity-for-8-000-human-services-staff" target="_blank">Scaling language access with AI</a>.
+</p>
+
+<hr />
+
+<h2 class="mt-2 mb-2">Why This Project Matters</h2>
+<p class="mt-2 mb-4">
+This project is one of my strongest examples of mission-driven AI work because it sits at the intersection of language access, public benefits, user research, content design, and responsible technology implementation.
+</p>
+
+<p class="mt-2 mb-4">
+It shows how content strategy can help make AI tools practical, accountable, and usable for government staff and the people they serve.
+</p>

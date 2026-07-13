@@ -1,0 +1,83 @@
+---
+title: Long COVID Healthathon
+description: Innovation sprint and public engagement campaign
+date_start: 2023-01-01
+date_end: 2025-12-31
+source:
+report:
+featured: false
+tags: public-health marketing video virtual-events paid-social civic-tech
+---
+<h1 class="mt-2 mb-2">Long COVID Healthathon</h1>
+
+<p class="mt-2 mb-4">
+The Long COVID Healthathon was a public health innovation campaign designed to engage participants in developing ideas to improve the lives of people with Long COVID. I led multimedia marketing and communications across paid and organic social, video, press releases, virtual events, and public-facing campaign materials.
+</p>
+
+<p class="mt-2 mb-4">
+The campaign brought together client stakeholders, vendors, designers, product teams, project managers, engineers, and participants around a sensitive and emerging health topic.
+</p>
+
+<img class="mt-2 mb-4" src="/assets/img/long-covid-healthathon.jpg">
+<figcaption>Public engagement campaign for Long COVID innovation</figcaption>
+
+<h2 class="mt-2 mb-2">Core Problem</h2>
+<p class="mt-2 mb-4">
+Long COVID is complex, personal, and still evolving as a public health issue. The campaign needed to recruit participants, explain the opportunity clearly, sustain engagement over multiple months, and make the work feel accessible to people who may not have seen themselves as typical innovation sprint participants.
+</p>
+
+<p class="mt-2 mb-4">
+The challenge was both strategic and practical: how do we create enough momentum, clarity, and trust to encourage people to participate in a public innovation effort around a difficult health condition?
+</p>
+
+<h2 class="mt-2 mb-2">Strategic Approach</h2>
+<p class="mt-2 mb-4">
+The strategy combined public engagement, social-first storytelling, paid audience acquisition, and event-driven communications. We needed content that could work across platforms and formats: social posts to create visibility, videos to explain and humanize the effort, virtual events to build momentum, and clear messaging to help participants understand how to get involved.
+</p>
+
+<p class="mt-2 mb-4">
+Because the topic was sensitive, the communications approach needed to be clear, respectful, accessible, and grounded in the real experiences of people affected by Long COVID.
+</p>
+
+<h2 class="mt-2 mb-2">Solution / Execution</h2>
+<p class="mt-2 mb-4">
+I led campaign direction and execution across LinkedIn, Instagram, X, YouTube, web, paid ads, video, press releases, and virtual events. I helped shape audience recruitment strategy, coordinate campaign assets, support event communications, and keep cross-functional stakeholders aligned.
+</p>
+
+<p class="mt-2 mb-4">
+I also supported live virtual event production and post-event content packaging, including recordings, clips, and promotional materials. The campaign required balancing public engagement, sensitive health content, stakeholder feedback, campaign deadlines, and performance goals.
+</p>
+
+<h2 class="mt-2 mb-2">Deliverables</h2>
+<ul>
+    <li>Paid and organic social campaign</li>
+    <li>Recruitment messaging</li>
+    <li>Video and YouTube content</li>
+    <li>Press releases</li>
+    <li>Virtual event support</li>
+    <li>Event recordings and follow-up materials</li>
+    <li>Social posts and participant updates</li>
+    <li>Cross-functional campaign coordination</li>
+    <li>Performance reporting</li>
+</ul>
+
+<h2 class="mt-2 mb-2">Results & Impact</h2>
+<ul>
+    <li>Supported a four-month public engagement campaign</li>
+    <li>Helped drive participation from 60+ teams</li>
+    <li>Supported selection of 15 finalists</li>
+    <li>Supported promotion of 3 funded winners</li>
+    <li>Managed paid media investment of several thousand dollars to support recruitment and public engagement</li>
+    <li>Created a coordinated campaign experience across social, video, web, press, and virtual events</li>
+</ul>
+
+<hr />
+
+<h2 class="mt-2 mb-2">Why This Project Matters</h2>
+<p class="mt-2 mb-4">
+This project shows how I work when the stakes are high, the topic is complex, and the campaign needs to serve both people and systems.
+</p>
+
+<p class="mt-2 mb-4">
+It is a strong example of public health communications, virtual event production, audience engagement, paid social, and multimedia campaign execution.
+</p>

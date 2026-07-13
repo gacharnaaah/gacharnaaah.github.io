@@ -6,47 +6,41 @@ date_end: 2023-09-11
 source: https://www.youtube.com/watch?v=joFJR2OxjpE
 report: https://education.wisc.edu/news/a-new-bucky-celebrates-175-years-honors-uw-madisons-past-present-and-future/
 featured: true
-tags: storytelling video marketing strategy
-permalink: /projects/honor-the-air-land-water/
+tags: storytelling video marketing strategy short-form social
 ---
+<h1 class="mt-2 mb-2">Honor the Air, Land, and Water</h1>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/joFJR2OxjpE?si=YNpi_C3acdXN0-D8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/joFJR2OxjpE?si=YNpi_C3acdXN0-D8" title="Honor the Air, Land, and Water documentary video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-During UW–Madison’s 175th anniversary, the university commissioned a new Bucky on Parade statue: “Honor the Air, Land, and Water,” created by Art Professor John Hitchcock with assistance from student artist Kaylee Herrmann.
+<p class="mt-2 mb-4">
+During UW–Madison’s 175th anniversary, the university commissioned a new Bucky on Parade statue: <em>Honor the Air, Land, and Water</em>, created by Art Professor John Hitchcock with assistance from student artist Kaylee Herrmann.
+</p>
 
+<p class="mt-2 mb-4">
 What began as a possible single-photo documentation opportunity became a much larger multimedia storytelling campaign. Through relationship-building across campus communications networks, I learned about the blank statue before the public reveal and secured the opportunity for my team to document the creative process from early development through completion.
+</p>
 
+<p class="mt-2 mb-4">
 The project became a story about much more than a mascot statue. Through repeated interviews and visits to the artist’s studio, we explored the themes behind the work: place, time, memory, movement, community, Indigenous presence, artistic practice, and UW–Madison’s past, present, and future.
+</p>
 
-<img src="/assets/img/honor-air-land-water-cover.png">
+<img class="mt-2 mb-4" src="/assets/img/honor-air-land-water-cover.jpg">
 <figcaption>The finished Bucky sculpture</figcaption>
 
-<h2>My Role</h2>
-I led the campaign strategy, editorial direction, production planning, team coordination, and distribution strategy.
+<h2 class="mt-2 mb-2">Core Problem</h2>
+<p class="mt-2 mb-4">
+The original opportunity was small: document a finished public art installation. But the larger story was in the process, people, symbols, music, cultural context, and meaning behind the work.
+</p>
 
-My responsibilities included:
-<ul>
-    <li>Identifying and securing the storytelling opportunity through campus relationship-building</li>
-    <li>Pitching the project as a larger multimedia campaign rather than a simple finished-product photo</li>
-    <li>Leading my team through multiple studio visits and interviews</li>
-    <li>Interviewing John Hitchcock and Kaylee Herrmann throughout the creative process</li>
-    <li>Pulling the narrative through-line from several conversations and production moments</li>
-    <li>Guiding culturally responsive storytelling choices</li>
-    <li>Coordinating photography, video, social media, and written content</li>
-    <li>Sourcing additional creative materials, including music from John Hitchcock</li>
-    <li>Pitching the story to campus and local media partners</li>
-    <li>Supporting distribution across School of Education, central campus, and local media channels</li>
-    <li>Managing timelines, stakeholder expectations, and review processes</li>
-</ul>
+<p class="mt-2 mb-4">
+The challenge was to help audiences understand why the statue mattered beyond its visual presence as a mascot installation, while also building interest ahead of the live reveal event.
+</p>
 
-
-<img src="/assets/img/honor-air-land-water-1.png">
-<figcaption>Prepping the statue</figcaption>
-
-<h2>Planning & Content Strategy</h2>
-The strategic opportunity was clear: rather than simply announcing a new public art installation, we could document how the work came to life and help audiences understand the people, history, and meaning behind it.
-
+<h2 class="mt-2 mb-2">Strategic Approach</h2>
+<p class="mt-2 mb-4">
 I approached the project as a layered story with several audiences:
+</p>
+
 <ul>
     <li>UW–Madison alumni and anniversary audiences</li>
     <li>School of Education and Art Department audiences</li>
@@ -55,60 +49,72 @@ I approached the project as a layered story with several audiences:
     <li>Viewers interested in public art, Indigenous perspectives, and place-based storytelling</li>
 </ul>
 
+<p class="mt-2 mb-4">
 The content strategy centered on making the process visible. We wanted audiences to see the blank statue, the studio, the painting, the interviews, the symbols, the music, and the relationships behind the finished work.
+</p>
 
-I also recognized that this story required care. The design carried cultural, historical, and place-based meaning, so the editorial process needed to be thoughtful, collaborative, and responsive. I worked closely with John Hitchcock to better understand the meaning behind the work and to ensure the final storytelling honored the cultural context rather than simplifying it.
+<p class="mt-2 mb-4">
+I also recognized that the story required care. The design carried cultural, historical, and place-based meaning, so the editorial process needed to be thoughtful, collaborative, and responsive. I worked closely with John Hitchcock to better understand the meaning behind the work and to ensure the final storytelling honored the cultural context rather than simplifying it.
+</p>
 
+<img class="mt-2 mb-4" src="/assets/img/honor-air-land-water-1.png">
+<figcaption>Documenting the creative process before the public reveal</figcaption>
 
-<img src="/assets/img/honor-air-land-water-2.png">
-<figcaption>Testing out different patterns</figcaption>
+<h2 class="mt-2 mb-2">Solution / Execution</h2>
+<p class="mt-2 mb-4">
+I led the campaign strategy, editorial direction, production planning, team coordination, and distribution strategy. I identified and secured the storytelling opportunity, pitched the project as a larger multimedia campaign, led my team through multiple studio visits and interviews, and interviewed John Hitchcock and Kaylee Herrmann throughout the creative process.
+</p>
 
-<h2>Production Process</h2>
-This project required sustained access, trust, and careful coordination.
+<p class="mt-2 mb-4">
+In addition to the larger documentary-style video, I produced social-first cutdown videos in the lead-up to the live reveal event. These short-form vertical videos were designed for YouTube Shorts, Instagram Reels, and TikTok-style distribution. Each piece used platform-native hooks, pacing, captions, visual rhythm, and audience curiosity to build anticipation and engagement.
+</p>
 
-Over multiple visits, I brought my team to the studio to interview John Hitchcock and Kaylee Herrmann, document the statue’s progress, and capture the atmosphere of the creative process. We filmed interviews, gathered b-roll, photographed the work in development, and observed the artists as the statue moved from blank form to completed public artwork.
-
-As the story developed, I shaped the narrative around the themes that emerged from our conversations: time, place, movement, memory, and the people who pass through the university and leave a mark.
-
-I also looked for ways to deepen the emotional and cultural texture of the piece. During one visit, I captured footage of John playing guitar, which later helped set the tone for video cutdowns. Knowing he was also a musician, I researched his music and asked whether we could incorporate some of his songs into the final video. He generously shared access, allowing us to connect the visual story of the statue with his broader creative practice.
-
+<p class="mt-2 mb-4">
 The project required both hands-on production and leadership. I worked closely with less experienced direct reports, helping them navigate interviews, production logistics, stakeholder communication, and creative decision-making. I also collaborated with partners across campus, many of whom I needed to influence without direct authority.
+</p>
 
-<img src="/assets/img/honor-air-land-water-3.png">
-<figcaption>Setting the base coat</figcaption>
+<h2 class="mt-2 mb-2">Short-Form Social Examples</h2>
 
-The campaign became a multi-format storytelling package, including:
+<iframe width="315" height="560" src="https://www.youtube.com/embed/ZU9CWYnjwxM" title="Honor the Air, Land, and Water YouTube Short 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="315" height="560" src="https://www.youtube.com/embed/-xmB4N7J4fI" title="Honor the Air, Land, and Water YouTube Short 2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="315" height="560" src="https://www.youtube.com/embed/2Yh5hA-ArGM" title="Honor the Air, Land, and Water YouTube Short 3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<h2 class="mt-2 mb-2">Deliverables</h2>
 <ul>
-    <li>A mini documentary about the making of the statue: https://www.youtube.com/watch?v=joFJR2OxjpE</li>
-    <li>Shorter video cutdowns for digital and social use (including the School’s very first YouTube Short: https://www.youtube.com/shorts/ZU9CWYnjwxM)</li>
+    <li>Mini documentary about the making of the statue: <a href="https://www.youtube.com/watch?v=joFJR2OxjpE" target="_blank">https://www.youtube.com/watch?v=joFJR2OxjpE</a></li>
+    <li>Short-form social cutdowns for YouTube Shorts, Instagram Reels, and TikTok-style distribution</li>
     <li>Photography documenting the creative process</li>
-    <li>A feature story for the School of Education</li>
+    <li>Feature story for the School of Education</li>
     <li>Social media content across School and campus channels</li>
     <li>Earned media outreach and local news pickup</li>
     <li>Collaboration with central UW–Madison communications accounts</li>
     <li>Support for the in-person reveal and celebration</li>
 </ul>
-The finished work extended beyond one owned channel. It appeared through School of Education communications, central campus amplification, local news coverage, social media, and the public anniversary celebration.
 
-<img src="/assets/img/honor-air-land-water-4.png">
-<figcaption>Painting the sculpture</figcaption>
-
-<h2>Results & Impact</h2>
+<h2 class="mt-2 mb-2">Results & Impact</h2>
+<p class="mt-2 mb-4">
 The project expanded from a simple documentation opportunity into a visible multimedia campaign connected to UW–Madison’s 175th anniversary.
+</p>
 
-Results included:
 <ul>
-    <li>Creation of a mini documentary and supporting multimedia campaign</li>
-    <li>Cross-campus collaboration with central university communications</li>
-    <li>Local news coverage of the statue and its story</li>
-    <li>Broader visibility for the School of Education, the Art Department, John Hitchcock, Kaylee Herrmann, and the anniversary celebration</li>
-    <li>A more meaningful public understanding of the cultural and artistic significance behind the statue</li>
-    <li>Stronger relationships with campus communications partners, creating future opportunities for collaboration</li>
+    <li>Created a mini documentary and supporting multimedia campaign</li>
+    <li>Produced social-first video cutdowns to build anticipation before the live reveal</li>
+    <li>Generated cross-campus collaboration with central university communications</li>
+    <li>Supported local news coverage of the statue and its story</li>
+    <li>Created broader visibility for the School of Education, the Art Department, John Hitchcock, Kaylee Herrmann, and the anniversary celebration</li>
+    <li>Helped audiences understand the cultural and artistic significance behind the statue</li>
+    <li>Strengthened relationships with campus communications partners, creating future opportunities for collaboration</li>
 </ul>
-The campaign demonstrated how proactive storytelling can elevate an institutional moment from a simple announcement into a richer story about people, place, and meaning.
 
 <hr />
 
-<h2>Reflection</h2>
-I’m proud of this project because it required more than technical production. It required curiosity, trust-building, editorial judgment, cultural care, and leadership.
-The most important decision I made was pushing the project beyond its original scope. What could have been a single image of a finished statue became a sustained story about artistic process, community, and the meaning of place. That shift only happened because of relationship-building, repeated conversations, and a willingness to follow the story as it emerged.
+<h2 class="mt-2 mb-2">Why This Project Matters</h2>
+<p class="mt-2 mb-4">
+This project demonstrates my ability to turn an event beat into an unfolding story across hero video, short-form social, photography, web, earned media, and live-event promotion.
+</p>
+
+<p class="mt-2 mb-4">
+It also reflects the kind of storytelling I care about most: work that helps people slow down, understand the meaning behind something they might otherwise pass by, and see the human story inside a public institution.
+</p>
